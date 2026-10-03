@@ -181,8 +181,4 @@ Possible future improvements include:
 * Real-time walnut cultivar identification
 * Further ensemble and model-compression techniques
 
-## 👨‍💻 Author
 
-**Jashan Singh**
-
-B.Tech (Honors) — Artificial Intelligence & Machine Learning
