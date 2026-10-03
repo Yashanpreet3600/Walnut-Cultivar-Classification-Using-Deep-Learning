@@ -1,0 +1,2 @@
+# Walnut-Cultivar-Classification-Using-Deep-Learning
+Deep learning project for automated classification of 18 walnut cultivars from images. The pipeline includes data preprocessing, augmentation, stratified train/validation/test splits, and benchmarking of six CNN/Transformer models. It also uses confusion matrices, Grad-CAM, t-SNE, and ensemble prediction for performance analysis and explainability.
